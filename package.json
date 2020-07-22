@@ -1,0 +1,23 @@
+{
+  "name": "Electron_ScreenRec",
+  "version": "1.0.0",
+  "description": "A Simple Screen Recording Desktop App using Electron Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueFengTingGuo/Electron_ScreenRec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrueFengTingGuo/Electron_ScreenRec/issues"
+  },
+  "homepage": "https://github.com/TrueFengTingGuo/Electron_ScreenRec#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
