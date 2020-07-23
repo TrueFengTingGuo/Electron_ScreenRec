@@ -4,9 +4,21 @@
     <meta charset="UTF-8">
     <title>Hello World!</title>
     <link rel="stylesheet" href="index.css">
+
+    <script defer src="render.js" ></script>  <!--defer allow this line runs after the page is loaded-->
+
   </head>
   <body>
-    <h1>💖 Hello World!</h1>
-    <p>Welcome to your Electron application.</p>
+    <h1>Screen Recorder</h1>
+
+    <video src=""></video>
+
+    <button id="startBtn" class="button is primary">Start</button>
+    <button id="stopBtn" class="button is-warning">Strop</button>
+    
+    
+    <hr>
+
+    <button id="videoSelectionBtn" class="button is-text"> Choose a Video Source</button>
   </body>
 </html>

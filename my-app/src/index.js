@@ -11,6 +11,9 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
+    webPreferences:{
+      nodeIntegration:true, // this can access node js directly in the code
+    }
   });
 
   // and load the index.html of the app.
