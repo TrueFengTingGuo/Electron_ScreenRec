@@ -2,11 +2,11 @@
 **A Simple Screen Recording Desktop App using Electron Framework** 
 
 
-To run this app, you need to install electron framework in the same level of "my-app" folder
+(To run this app, you need to install electron framework in the same level of "my-app" folder)
 
 
 
-How to install Electron:
+## How to install Electron:
 
 First type this in the terminal 
 
@@ -19,7 +19,7 @@ Second, type this
 
 
 
-To Run this app:
+## To Run this app:
 
 Go to the "my-app" dir and type
 
