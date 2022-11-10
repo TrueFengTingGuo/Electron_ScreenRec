@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/TrueFengTingGuo/Electron_ScreenRec#readme",
   "devDependencies": {
-    "electron": "^9.1.1"
+    "electron": "^18.3.7"
   }
 }
